@@ -13,7 +13,7 @@ The Data Analytics Journey gives an overview of the entire analytics life cycle.
 
 Data Cleaning continues building proficiency in the data analytics life cycle with data preparation skills. This course addresses exploring, transforming, and imputing data as well as handling outliers. Learners write code to manipulate, structure, and clean data as well as to reduce features in data sets. The following courses are prerequisites: The Data Analytics Journey, and Data Acquisition.
 
-####Exploratory Data Analysis
+#### Exploratory Data Analysis
 
 Exploratory Data Analysis covers statistical principles supporting the data analytics life cycle. Students in this course compute and interpret measures of central tendency, correlations, and variation. The course introduces hypothesis testing, focusing on application for parametric tests, and addresses communication skills and tools to explain an analyst’s findings to others within an organization. Data Cleaning is a required prerequisite for this course.
 
