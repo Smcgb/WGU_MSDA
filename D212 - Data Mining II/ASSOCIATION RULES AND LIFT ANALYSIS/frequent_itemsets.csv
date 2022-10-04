@@ -1,0 +1,258 @@
+support,itemsets
+0.23836821757099053,frozenset({'Dust-Off Compressed Gas 2 pack'})
+0.17970937208372217,frozenset({'Apple Pencil'})
+0.17411011865084655,frozenset({'VIVO Dual LCD Monitor Desk mount'})
+0.1709105452606319,frozenset({'USB 2.0 Printer cable'})
+0.1638448206905746,frozenset({'HP 61 ink'})
+0.13211571790427942,frozenset({'Apple USB-C Charger cable'})
+0.12958272230369283,frozenset({'Screen Mom Screen Cleaner kit'})
+0.09825356619117451,frozenset({'SanDisk Ultra 64GB card'})
+0.09532062391681109,frozenset({'Nylon Braided Lightning to USB cable'})
+0.09505399280095987,frozenset({'Stylus Pen for iPad'})
+0.0871883748833489,frozenset({'Apple Lightning to Digital AV Adapter'})
+0.08105585921877083,frozenset({'Syntech USB C to USB Adapter'})
+0.08038928142914278,frozenset({'USB Type C to USB-A Charger cable'})
+0.0793227569657379,frozenset({'HP 63XL Ink'})
+0.07652313024930009,frozenset({'TopMate C5 Laptop Cooler pad'})
+0.07145713904812692,frozenset({'Logitech M510 Wireless mouse'})
+0.06839088121583789,frozenset({'Anker USB C to HDMI Adapter'})
+0.0658578856152513,frozenset({'FEIYOLD Blue light Blocking Glasses'})
+0.06332489001466471,frozenset({'SanDisk Ultra 128GB card'})
+0.06252499666711105,frozenset({'Cat8 Ethernet Cable'})
+0.05999200106652446,frozenset({'Falcon Dust Off Compressed Gas'})
+0.05972536995067324,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'Dust-Off Compressed Gas 2 pack'})"
+0.058525529929342755,frozenset({'HP 62XL Tri-Color ink'})
+0.05265964538061592,"frozenset({'HP 61 ink', 'Dust-Off Compressed Gas 2 pack'})"
+0.0523930142647647,frozenset({'SAMSUNG EVO 32GB card'})
+0.0510598586855086,frozenset({'Premium Nylon USB Cable'})
+0.05092654312758299,"frozenset({'Dust-Off Compressed Gas 2 pack', 'Apple Pencil'})"
+0.05052659645380616,frozenset({'10ft iPHone Charger Cable 2 Pack'})
+0.04946007199040128,frozenset({'SanDisk 128GB Ultra microSDXC card'})
+0.04799360085321957,"frozenset({'Dust-Off Compressed Gas 2 pack', 'Screen Mom Screen Cleaner kit'})"
+0.047460338621517134,frozenset({'HyperX Cloud Stinger Headset'})
+0.04679376083188908,frozenset({'USB Type C Cable'})
+0.043060925209972005,frozenset({'SanDisk 128GB microSDXC card'})
+0.04252766297826956,frozenset({'3A USB Type C Cable 3 pack 6FT'})
+0.040927876283162246,"frozenset({'SanDisk Ultra 64GB card', 'Dust-Off Compressed Gas 2 pack'})"
+0.03919477403012932,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'SanDisk Ultra 64GB card'})"
+0.03919477403012932,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'HP 61 ink'})"
+0.036528462871617116,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'Apple Pencil'})"
+0.036395147313691506,"frozenset({'USB 2.0 Printer cable', 'Apple Pencil'})"
+0.03572856952406346,"frozenset({'Dust-Off Compressed Gas 2 pack', 'Nylon Braided Lightning to USB cable'})"
+0.03546193840821224,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'Screen Mom Screen Cleaner kit'})"
+0.03439541394480736,"frozenset({'HP 61 ink', 'USB 2.0 Printer cable'})"
+0.03372883615517931,frozenset({'HOVAMP Mfi 6pack Lightning Cable'})
+0.03372883615517931,"frozenset({'Stylus Pen for iPad', 'Dust-Off Compressed Gas 2 pack'})"
+0.03372883615517931,"frozenset({'Dust-Off Compressed Gas 2 pack', 'USB 2.0 Printer cable'})"
+0.03332888948140248,frozenset({'HP 65 ink'})
+0.03319557392347687,"frozenset({'HP 61 ink', 'Apple Pencil'})"
+0.03239568057592321,frozenset({'Logitech MK345 Wireless combo'})
+0.03212904946007199,"frozenset({'HP 61 ink', 'Screen Mom Screen Cleaner kit'})"
+0.03186241834422077,frozenset({'Cleaning Gel Universal Dust Cleaner'})
+0.03106252499666711,"frozenset({'Dust-Off Compressed Gas 2 pack', 'Apple USB-C Charger cable'})"
+0.03079589388081589,"frozenset({'Screen Mom Screen Cleaner kit', 'Apple Pencil'})"
+0.030395947207039063,frozenset({'YUNSONG 3pack 6ft Nylon Lightning Cable'})
+0.030129316091187842,frozenset({'SanDisk 32GB Ultra SDHC card'})
+0.029462738301559793,frozenset({'Anker 2-in-1 USB Card Reader'})
+0.02879616051193174,"frozenset({'Apple Lightning to Digital AV Adapter', 'Apple Pencil'})"
+0.028529529396080524,"frozenset({'Apple USB-C Charger cable', 'USB 2.0 Printer cable'})"
+0.028129582722303693,frozenset({'VicTsing Wireless mouse'})
+0.027862951606452472,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'Nylon Braided Lightning to USB cable'})"
+0.027596320490601255,"frozenset({'FEIYOLD Blue light Blocking Glasses', 'Dust-Off Compressed Gas 2 pack'})"
+0.027596320490601255,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'USB 2.0 Printer cable'})"
+0.027463004932675644,"frozenset({'Dust-Off Compressed Gas 2 pack', 'Syntech USB C to USB Adapter'})"
+0.027329689374750034,frozenset({'RUNMUS Gaming Headset'})
+0.027196373816824423,frozenset({'Vsco 70 pack stickers'})
+0.027063058258898813,frozenset({'Moread HDMI to VGA Adapter'})
+0.026663111585121985,frozenset({'Micro Center 32GB Memory card'})
+0.026529796027196375,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'Apple USB-C Charger cable'})"
+0.026529796027196375,frozenset({'Mpow HC6 USB Headset'})
+0.026529796027196375,frozenset({'iPhone SE case'})
+0.025729902679642713,frozenset({'iPhone Charger Cable Anker 6ft'})
+0.025729902679642713,frozenset({'nonda USB C to USB Adapter'})
+0.025463271563791495,"frozenset({'Apple USB-C Charger cable', 'Apple Pencil'})"
+0.025196640447940274,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'Stylus Pen for iPad'})"
+0.024396747100386616,"frozenset({'Anker USB C to HDMI Adapter', 'Dust-Off Compressed Gas 2 pack'})"
+0.024396747100386616,"frozenset({'Apple Lightning to Digital AV Adapter', 'Dust-Off Compressed Gas 2 pack'})"
+0.024130115984535395,frozenset({'M.2 Screw kit'})
+0.023996800426609784,"frozenset({'Dust-Off Compressed Gas 2 pack', 'TopMate C5 Laptop Cooler pad'})"
+0.023730169310758567,"frozenset({'Screen Mom Screen Cleaner kit', 'USB 2.0 Printer cable'})"
+0.023596853752832957,"frozenset({'Screen Mom Screen Cleaner kit', 'Nylon Braided Lightning to USB cable'})"
+0.023596853752832957,"frozenset({'Dust-Off Compressed Gas 2 pack', 'Logitech M510 Wireless mouse'})"
+0.023463538194907346,"frozenset({'HP 61 ink', 'Apple USB-C Charger cable'})"
+0.023063591521130515,"frozenset({'10ft iPHone Charger Cable 2 Pack', 'Dust-Off Compressed Gas 2 pack'})"
+0.023063591521130515,frozenset({'HP 952 ink'})
+0.023063591521130515,"frozenset({'HP 61 ink', 'SanDisk Ultra 64GB card'})"
+0.022930275963204905,"frozenset({'HP 61 ink', 'Nylon Braided Lightning to USB cable'})"
+0.022930275963204905,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'FEIYOLD Blue light Blocking Glasses'})"
+0.022796960405279298,"frozenset({'Dust-Off Compressed Gas 2 pack', 'Falcon Dust Off Compressed Gas'})"
+0.022530329289428077,frozenset({'HP 62XL ink'})
+0.022263698173576856,frozenset({'Jelly Comb 2.4G Slim Wireless mouse'})
+0.021997067057725635,"frozenset({'Apple Lightning to Digital AV Adapter', 'USB 2.0 Printer cable'})"
+0.021997067057725635,"frozenset({'SanDisk Ultra 64GB card', 'Screen Mom Screen Cleaner kit'})"
+0.021730435941874418,"frozenset({'Stylus Pen for iPad', 'Apple Pencil'})"
+0.021730435941874418,"frozenset({'Apple Pencil', 'Nylon Braided Lightning to USB cable'})"
+0.021463804826023197,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'Apple Lightning to Digital AV Adapter'})"
+0.021330489268097587,frozenset({'HP 61 Tri-color ink'})
+0.021197173710171976,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'Logitech M510 Wireless mouse'})"
+0.020930542594320756,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'Anker USB C to HDMI Adapter'})"
+0.020930542594320756,frozenset({'TP-Link AC1750 Smart WiFi Router'})
+0.020397280362618318,frozenset({'HP 63 Ink'})
+0.020263964804692707,"frozenset({'SanDisk Ultra 128GB card', 'Dust-Off Compressed Gas 2 pack'})"
+0.020130649246767097,"frozenset({'HP 62XL Tri-Color ink', 'Dust-Off Compressed Gas 2 pack'})"
+0.020130649246767097,"frozenset({'Dust-Off Compressed Gas 2 pack', 'Premium Nylon USB Cable'})"
+0.020130649246767097,"frozenset({'Stylus Pen for iPad', 'USB 2.0 Printer cable'})"
+0.019997333688841486,"frozenset({'SanDisk Ultra 64GB card', 'Apple Pencil'})"
+0.01986401813091588,frozenset({'PS4 Headset'})
+0.01986401813091588,"frozenset({'HP 61 ink', 'Stylus Pen for iPad'})"
+0.01946407145713905,"frozenset({'Cat8 Ethernet Cable', 'Apple Pencil'})"
+0.019197440341287828,"frozenset({'Dust-Off Compressed Gas 2 pack', 'Cat8 Ethernet Cable'})"
+0.019064124783362217,"frozenset({'USB 2.0 Printer cable', 'Nylon Braided Lightning to USB cable'})"
+0.019064124783362217,"frozenset({'Apple Pencil', 'Syntech USB C to USB Adapter'})"
+0.019064124783362217,frozenset({'5pack Nylon Braided USB C cables'})
+0.018797493667511,frozenset({'SanDisk Extreme Pro 128GB card'})
+0.01853086255165978,frozenset({'Brother Genuine High Yield Toner Cartridge'})
+0.018130915877882948,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'Syntech USB C to USB Adapter'})"
+0.017997600319957337,"frozenset({'HP 61 ink', 'Logitech M510 Wireless mouse'})"
+0.01786428476203173,"frozenset({'USB 2.0 Printer cable', 'Syntech USB C to USB Adapter'})"
+0.01786428476203173,"frozenset({'Apple Lightning to Digital AV Adapter', 'Screen Mom Screen Cleaner kit'})"
+0.01759765364618051,"frozenset({'Screen Mom Screen Cleaner kit', 'Logitech M510 Wireless mouse'})"
+0.01759765364618051,"frozenset({'Apple USB-C Charger cable', 'Screen Mom Screen Cleaner kit'})"
+0.01759765364618051,"frozenset({'HP 61 ink', 'HP 63XL Ink'})"
+0.0174643380882549,"frozenset({'Dust-Off Compressed Gas 2 pack', 'SAMSUNG EVO 32GB card'})"
+0.0174643380882549,frozenset({'Dust-Off Compressed Gas'})
+0.0174643380882549,"frozenset({'Apple Lightning to Digital AV Adapter', 'Apple USB-C Charger cable'})"
+0.01719770697240368,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'Falcon Dust Off Compressed Gas'})"
+0.017064391414478068,"frozenset({'FEIYOLD Blue light Blocking Glasses', 'Screen Mom Screen Cleaner kit'})"
+0.017064391414478068,"frozenset({'SanDisk 128GB Ultra microSDXC card', 'Dust-Off Compressed Gas 2 pack'})"
+0.017064391414478068,"frozenset({'Dust-Off Compressed Gas 2 pack', 'HP 63XL Ink'})"
+0.017064391414478068,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'SanDisk Ultra 64GB card', 'Dust-Off Compressed Gas 2 pack'})"
+0.017064391414478068,"frozenset({'Apple Lightning to Digital AV Adapter', 'HP 61 ink'})"
+0.017064391414478068,"frozenset({'Dust-Off Compressed Gas 2 pack', '3A USB Type C Cable 3 pack 6FT'})"
+0.01693107585655246,"frozenset({'SanDisk Ultra 64GB card', 'Nylon Braided Lightning to USB cable'})"
+0.01679776029862685,"frozenset({'Apple Pencil', 'TopMate C5 Laptop Cooler pad'})"
+0.01666444474070124,"frozenset({'Logitech M510 Wireless mouse', 'Nylon Braided Lightning to USB cable'})"
+0.01653112918277563,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'Cat8 Ethernet Cable'})"
+0.01653112918277563,frozenset({'Cat 6 Ethernet Cable 50ft'})
+0.01653112918277563,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'SAMSUNG EVO 32GB card'})"
+0.01653112918277563,"frozenset({'Stylus Pen for iPad', 'Screen Mom Screen Cleaner kit'})"
+0.01639781362485002,"frozenset({'Stylus Pen for iPad', 'Apple USB-C Charger cable'})"
+0.01639781362485002,"frozenset({'HP 61 ink', 'FEIYOLD Blue light Blocking Glasses'})"
+0.01639781362485002,"frozenset({'USB 2.0 Printer cable', 'HP 63XL Ink'})"
+0.01626449806692441,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'SanDisk 128GB Ultra microSDXC card'})"
+0.0161311825089988,"frozenset({'Anker USB C to HDMI Adapter', 'Nylon Braided Lightning to USB cable'})"
+0.015997866951073192,"frozenset({'SanDisk 128GB Ultra microSDXC card', 'SanDisk Ultra 64GB card'})"
+0.01586455139314758,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'Premium Nylon USB Cable'})"
+0.01586455139314758,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'HP 61 ink', 'Dust-Off Compressed Gas 2 pack'})"
+0.01573123583522197,frozenset({'iPhone 11 case'})
+0.01573123583522197,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'Dust-Off Compressed Gas 2 pack', 'Screen Mom Screen Cleaner kit'})"
+0.01559792027729636,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'SanDisk Ultra 128GB card'})"
+0.01559792027729636,frozenset({'Apple Lightning to USB cable'})
+0.01533128916144514,frozenset({'Leader Desk Pad Protector'})
+0.015197973603519531,"frozenset({'10ft iPHone Charger Cable 2 Pack', 'Screen Mom Screen Cleaner kit'})"
+0.015197973603519531,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'TopMate C5 Laptop Cooler pad'})"
+0.015064658045593921,"frozenset({'HyperX Cloud Stinger Headset', 'Dust-Off Compressed Gas 2 pack'})"
+0.01493134248766831,"frozenset({'HP 61 ink', 'SanDisk Ultra 128GB card'})"
+0.014798026929742702,"frozenset({'HP 61 ink', 'TopMate C5 Laptop Cooler pad'})"
+0.014798026929742702,"frozenset({'Screen Mom Screen Cleaner kit', 'Falcon Dust Off Compressed Gas'})"
+0.014798026929742702,"frozenset({'SanDisk Ultra 64GB card', 'Apple USB-C Charger cable'})"
+0.014664711371817091,"frozenset({'HP 61 ink', 'Falcon Dust Off Compressed Gas'})"
+0.014531395813891481,"frozenset({'SanDisk Ultra 64GB card', 'Stylus Pen for iPad'})"
+0.014531395813891481,"frozenset({'SanDisk Ultra 128GB card', 'USB 2.0 Printer cable'})"
+0.01439808025596587,"frozenset({'Falcon Dust Off Compressed Gas', 'Apple Pencil'})"
+0.01439808025596587,"frozenset({'Apple USB-C Charger cable', 'Nylon Braided Lightning to USB cable'})"
+0.014264764698040262,frozenset({'SAMSUNG 128GB card'})
+0.014264764698040262,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'Dust-Off Compressed Gas 2 pack', 'Apple Pencil'})"
+0.014264764698040262,"frozenset({'SanDisk Ultra 128GB card', 'Screen Mom Screen Cleaner kit'})"
+0.014264764698040262,"frozenset({'10ft iPHone Charger Cable 2 Pack', 'VIVO Dual LCD Monitor Desk mount'})"
+0.014131449140114652,"frozenset({'Apple USB-C Charger cable', 'Syntech USB C to USB Adapter'})"
+0.014131449140114652,"frozenset({'HP 62XL Tri-Color ink', 'VIVO Dual LCD Monitor Desk mount'})"
+0.014131449140114652,frozenset({'AutoFocus 1080p Webcam'})
+0.014131449140114652,"frozenset({'Logitech M510 Wireless mouse', 'Apple Pencil'})"
+0.014131449140114652,"frozenset({'SanDisk Ultra 64GB card', 'FEIYOLD Blue light Blocking Glasses'})"
+0.013998133582189041,"frozenset({'Anker USB C to HDMI Adapter', 'Screen Mom Screen Cleaner kit'})"
+0.013998133582189041,"frozenset({'HP 61 ink', 'Dust-Off Compressed Gas 2 pack', 'Screen Mom Screen Cleaner kit'})"
+0.013998133582189041,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'HP 63XL Ink'})"
+0.013998133582189041,"frozenset({'HP 61 ink', 'Anker USB C to HDMI Adapter'})"
+0.01386481802426343,"frozenset({'SanDisk Ultra 64GB card', 'USB 2.0 Printer cable'})"
+0.013598186908412212,"frozenset({'HP 61 ink', 'Syntech USB C to USB Adapter'})"
+0.013598186908412212,frozenset({'SanDisk Ultra 400GB card'})
+0.013598186908412212,"frozenset({'HP 61 ink', 'Premium Nylon USB Cable'})"
+0.013464871350486601,"frozenset({'HP 61 ink', 'Dust-Off Compressed Gas 2 pack', 'Apple Pencil'})"
+0.013464871350486601,"frozenset({'Stylus Pen for iPad', 'Nylon Braided Lightning to USB cable'})"
+0.013464871350486601,"frozenset({'VIVO Dual LCD Monitor Desk mount', '3A USB Type C Cable 3 pack 6FT'})"
+0.013464871350486601,frozenset({'SanDisk Extreme Pro 64GB card'})
+0.013331555792560993,"frozenset({'Screen Mom Screen Cleaner kit', 'Syntech USB C to USB Adapter'})"
+0.013331555792560993,"frozenset({'USB 2.0 Printer cable', 'USB Type C to USB-A Charger cable'})"
+0.013331555792560993,"frozenset({'Dust-Off Compressed Gas 2 pack', 'SanDisk 128GB microSDXC card'})"
+0.013331555792560993,"frozenset({'USB 2.0 Printer cable', 'TopMate C5 Laptop Cooler pad'})"
+0.013198240234635382,"frozenset({'Screen Mom Screen Cleaner kit', 'TopMate C5 Laptop Cooler pad'})"
+0.013198240234635382,frozenset({'Mfi-Certified Lightning to USB A Cable'})
+0.013064924676709772,"frozenset({'Dust-Off Compressed Gas 2 pack', 'Screen Mom Screen Cleaner kit', 'Apple Pencil'})"
+0.012531662445007332,"frozenset({'SanDisk 128GB Ultra microSDXC card', 'Apple Pencil'})"
+0.012265031329156113,"frozenset({'Anker USB C to HDMI Adapter', 'Apple Pencil'})"
+0.012265031329156113,"frozenset({'Anker USB C to HDMI Adapter', 'Apple USB-C Charger cable'})"
+0.011998400213304892,"frozenset({'FEIYOLD Blue light Blocking Glasses', 'Apple Pencil'})"
+0.011998400213304892,"frozenset({'Apple USB-C Charger cable', 'USB Type C to USB-A Charger cable'})"
+0.011998400213304892,"frozenset({'Apple Lightning to Digital AV Adapter', 'SanDisk Ultra 64GB card'})"
+0.011998400213304892,frozenset({'DisplayPort ot HDMI adapter'})
+0.011998400213304892,"frozenset({'Anker USB C to HDMI Adapter', 'USB 2.0 Printer cable'})"
+0.011998400213304892,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'Dust-Off Compressed Gas 2 pack', 'Nylon Braided Lightning to USB cable'})"
+0.011998400213304892,"frozenset({'HP 62XL Tri-Color ink', 'HP 61 ink'})"
+0.011998400213304892,frozenset({'XPOWER A-2 Air Pump blower'})
+0.011865084655379284,"frozenset({'Apple USB-C Charger cable', 'Falcon Dust Off Compressed Gas'})"
+0.011865084655379284,"frozenset({'Stylus Pen for iPad', 'Syntech USB C to USB Adapter'})"
+0.011865084655379284,"frozenset({'Apple USB-C Charger cable', 'Cat8 Ethernet Cable'})"
+0.011865084655379284,"frozenset({'HP 62XL Tri-Color ink', 'Screen Mom Screen Cleaner kit'})"
+0.011865084655379284,"frozenset({'HyperX Cloud Stinger Headset', 'VIVO Dual LCD Monitor Desk mount'})"
+0.011731769097453673,"frozenset({'Apple Pencil', 'Premium Nylon USB Cable'})"
+0.011731769097453673,"frozenset({'Anker USB C to HDMI Adapter', 'SanDisk Ultra 64GB card'})"
+0.011598453539528063,"frozenset({'Dust-Off Compressed Gas 2 pack', 'HP 65 ink'})"
+0.011598453539528063,"frozenset({'USB Type C Cable', 'HP 61 ink'})"
+0.011465137981602452,frozenset({'SAMSUNG 256 GB card'})
+0.011465137981602452,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'Stylus Pen for iPad', 'Dust-Off Compressed Gas 2 pack'})"
+0.011465137981602452,"frozenset({'SanDisk Ultra 64GB card', 'Logitech M510 Wireless mouse'})"
+0.011465137981602452,"frozenset({'Screen Mom Screen Cleaner kit', 'Premium Nylon USB Cable'})"
+0.011465137981602452,"frozenset({'Apple Lightning to Digital AV Adapter', 'Syntech USB C to USB Adapter'})"
+0.011465137981602452,"frozenset({'Apple USB-C Charger cable', 'Logitech M510 Wireless mouse'})"
+0.011465137981602452,frozenset({'Creative Pebble 2.0 Speakers'})
+0.011331822423676844,"frozenset({'FEIYOLD Blue light Blocking Glasses', 'Nylon Braided Lightning to USB cable'})"
+0.011331822423676844,"frozenset({'Screen Mom Screen Cleaner kit', 'Cat8 Ethernet Cable'})"
+0.011331822423676844,"frozenset({'SanDisk Ultra 64GB card', 'SAMSUNG EVO 32GB card'})"
+0.011331822423676844,"frozenset({'HP 61 ink', 'Cat8 Ethernet Cable'})"
+0.011198506865751233,"frozenset({'SanDisk Ultra 128GB card', 'Apple USB-C Charger cable'})"
+0.011198506865751233,"frozenset({'Anker USB C to HDMI Adapter', 'Logitech M510 Wireless mouse'})"
+0.011065191307825623,"frozenset({'SanDisk Ultra 64GB card', 'Dust-Off Compressed Gas 2 pack', 'Screen Mom Screen Cleaner kit'})"
+0.011065191307825623,"frozenset({'SanDisk Ultra 128GB card', 'Apple Pencil'})"
+0.011065191307825623,"frozenset({'Apple Pencil', 'HP 63XL Ink'})"
+0.011065191307825623,"frozenset({'USB 2.0 Printer cable', 'Falcon Dust Off Compressed Gas'})"
+0.011065191307825623,"frozenset({'Dust-Off Compressed Gas 2 pack', 'Screen Mom Screen Cleaner kit', 'Nylon Braided Lightning to USB cable'})"
+0.010931875749900012,"frozenset({'HP 61 ink', 'SanDisk Ultra 64GB card', 'Dust-Off Compressed Gas 2 pack'})"
+0.010931875749900012,frozenset({'ARRIS SURFboard SB8200 Cable Modem'})
+0.010931875749900012,"frozenset({'HP 61 ink', 'SAMSUNG EVO 32GB card'})"
+0.010931875749900012,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'HP 61 ink', 'Screen Mom Screen Cleaner kit'})"
+0.010931875749900012,"frozenset({'VicTsing Wireless mouse', 'Dust-Off Compressed Gas 2 pack'})"
+0.010931875749900012,"frozenset({'HP 62XL Tri-Color ink', 'Apple Pencil'})"
+0.010798560191974404,"frozenset({'Stylus Pen for iPad', 'FEIYOLD Blue light Blocking Glasses'})"
+0.010798560191974404,frozenset({'HP ENVY 5055 printer'})
+0.010665244634048793,"frozenset({'USB 2.0 Printer cable', 'Cat8 Ethernet Cable'})"
+0.010665244634048793,"frozenset({'HP 61 ink', '3A USB Type C Cable 3 pack 6FT'})"
+0.010665244634048793,"frozenset({'Apple Lightning to Digital AV Adapter', 'Cat8 Ethernet Cable'})"
+0.010531929076123183,"frozenset({'HP 62XL Tri-Color ink', 'USB 2.0 Printer cable'})"
+0.010531929076123183,frozenset({'HP 63 Tri-color ink'})
+0.010531929076123183,"frozenset({'Stylus Pen for iPad', 'Logitech M510 Wireless mouse'})"
+0.010531929076123183,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'HP 61 ink', 'Apple Pencil'})"
+0.010531929076123183,"frozenset({'Apple Lightning to Digital AV Adapter', 'Nylon Braided Lightning to USB cable'})"
+0.010531929076123183,"frozenset({'Apple Lightning to Digital AV Adapter', 'Stylus Pen for iPad'})"
+0.010531929076123183,"frozenset({'Apple Pencil', 'USB Type C to USB-A Charger cable'})"
+0.010398613518197574,frozenset({'SanDisk Extreme 256GB card'})
+0.010398613518197574,"frozenset({'HP 61 ink', 'USB Type C to USB-A Charger cable'})"
+0.010398613518197574,"frozenset({'USB 2.0 Printer cable', 'SAMSUNG EVO 32GB card'})"
+0.010265297960271964,"frozenset({'Syntech USB C to USB Adapter', 'Nylon Braided Lightning to USB cable'})"
+0.010265297960271964,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'FEIYOLD Blue light Blocking Glasses', 'Dust-Off Compressed Gas 2 pack'})"
+0.010265297960271964,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'VicTsing Wireless mouse'})"
+0.010265297960271964,"frozenset({'Dust-Off Compressed Gas 2 pack', 'iPhone Charger Cable Anker 6ft'})"
+0.010131982402346354,"frozenset({'SanDisk Ultra 64GB card', 'Dust-Off Compressed Gas 2 pack', 'Apple Pencil'})"
+0.010131982402346354,"frozenset({'Nylon Braided Lightning to USB cable', 'TopMate C5 Laptop Cooler pad'})"
+0.010131982402346354,"frozenset({'VIVO Dual LCD Monitor Desk mount', 'Dust-Off Compressed Gas 2 pack', 'USB 2.0 Printer cable'})"
+0.010131982402346354,"frozenset({'10ft iPHone Charger Cable 2 Pack', 'HP 61 ink'})"
