@@ -1,0 +1,5 @@
+payment_id,payment_type
+1,Bank Transfer Automatic
+2,Credit Card Automatic
+3,Electronic Check
+4,Mailed Check

@@ -1,0 +1,640 @@
+job_id,job_title
+1,Academic librarian
+2,Accommodation manager
+3,Accountant- chartered
+4,Accountant- chartered certified
+5,Accountant- chartered management
+6,Accountant- chartered public finance
+7,Accounting technician
+8,Actor
+9,Actuary
+10,Acupuncturist
+11,Administrator
+12,Administrator- arts
+13,Administrator- charities/voluntary organisations
+14,Administrator- Civil Service
+15,Administrator- education
+16,Administrator- local government
+17,Administrator- sports
+18,Adult guidance worker
+19,Adult nurse
+20,Advertising account executive
+21,Advertising account planner
+22,Advertising art director
+23,Advertising copywriter
+24,Advice worker
+25,Aeronautical engineer
+26,Agricultural consultant
+27,Agricultural engineer
+28,Aid worker
+29,Air broker
+30,Air cabin crew
+31,Air traffic controller
+32,Airline pilot
+33,Ambulance person
+34,Amenity horticulturist
+35,Analytical chemist
+36,Animal nutritionist
+37,Animal technologist
+38,Animator
+39,Applications developer
+40,Arboriculturist
+41,Archaeologist
+42,Architect
+43,Architectural technologist
+44,Archivist
+45,Armed forces logistics/support/administrative officer
+46,Armed forces operational officer
+47,Armed forces technical officer
+48,Armed forces training and education officer
+49,Art gallery manager
+50,Art therapist
+51,Artist
+52,Arts administrator
+53,Arts development officer
+54,Associate Professor
+55,Astronomer
+56,Audiological scientist
+57,Automotive engineer
+58,Banker
+59,Barista
+60,Barrister
+61,Barrister''s clerk
+62,Best boy
+63,Biochemist- clinical
+64,Biomedical engineer
+65,Biomedical scientist
+66,Bonds trader
+67,Bookseller
+68,Brewing technologist
+69,Broadcast engineer
+70,Broadcast journalist
+71,Broadcast presenter
+72,Building control surveyor
+73,Building services engineer
+74,Building surveyor
+75,Buyer- industrial
+76,Buyer- retail
+77,Cabin crew
+78,Call centre manager
+79,Camera operator
+80,Careers adviser
+81,Careers information officer
+82,Cartographer
+83,Catering manager
+84,Ceramics designer
+85,Charity fundraiser
+86,Charity officer
+87,Chartered accountant
+88,Chartered certified accountant
+89,Chartered legal executive (England and Wales)
+90,Chartered loss adjuster
+91,Chartered management accountant
+92,Chartered public finance accountant
+93,Chemical engineer
+94,Chemist- analytical
+95,Chief Executive Officer
+96,Chief Financial Officer
+97,Chief Marketing Officer
+98,Chief of Staff
+99,Chief Operating Officer
+100,Chief Strategy Officer
+101,Chief Technology Officer
+102,Child psychotherapist
+103,Chiropodist
+104,Chiropractor
+105,Civil engineer- consulting
+106,Civil engineer- contracting
+107,Civil Service administrator
+108,Civil Service fast streamer
+109,Claims inspector/assessor
+110,Clinical biochemist
+111,Clinical cytogeneticist
+112,Clinical embryologist
+113,Clinical molecular geneticist
+114,Clinical psychologist
+115,Clinical research associate
+116,Clinical scientist- histocompatibility and immunogenetics
+117,Clothing/textile technologist
+118,Colour technologist
+119,Commercial art gallery manager
+120,Commercial horticulturist
+121,Commercial/residential surveyor
+122,Commissioning editor
+123,Communications engineer
+124,Community arts worker
+125,Community development worker
+126,Community education officer
+127,Community pharmacist
+128,Company secretary
+129,Comptroller
+130,Computer games developer
+131,Conference centre manager
+132,Conservation officer- historic buildings
+133,Conservation officer- nature
+134,Conservator- furniture
+135,Conservator- museum/gallery
+136,Consulting civil engineer
+137,Contracting civil engineer
+138,Contractor
+139,Control and instrumentation engineer
+140,Copy
+141,Copywriter- advertising
+142,Corporate investment banker
+143,Corporate treasurer
+144,Counselling psychologist
+145,Counsellor
+146,Curator
+147,Customer service manager
+148,Cytogeneticist
+149,Dance movement psychotherapist
+150,Dancer
+151,Data processing manager
+152,Data scientist
+153,Database administrator
+154,Dealer
+155,Dentist
+156,Designer- blown glass/stained glass
+157,Designer- ceramics/pottery
+158,Designer- exhibition/display
+159,Designer- fashion/clothing
+160,Designer- furniture
+161,Designer- graphic
+162,Designer- industrial/product
+163,Designer- interior/spatial
+164,Designer- jewellery
+165,Designer- multimedia
+166,Designer- television/film set
+167,Designer- textile
+168,Development worker- community
+169,Development worker- international aid
+170,Diagnostic radiographer
+171,Dietitian
+172,Diplomatic Services operational officer
+173,Dispensing optician
+174,Doctor- general practice
+175,Doctor- hospital
+176,Dramatherapist
+177,Drilling engineer
+178,Early years teacher
+179,Ecologist
+180,Economist
+181,Editor- commissioning
+182,Editor- film/video
+183,Editor- magazine features
+184,Editorial assistant
+185,Education administrator
+186,Education officer- community
+187,Education officer- environmental
+188,Education officer- museum
+189,Educational psychologist
+190,Electrical engineer
+191,Electronics engineer
+192,Embryologist- clinical
+193,Emergency planning/management officer
+194,Energy engineer
+195,Energy manager
+196,Engineer- aeronautical
+197,Engineer- agricultural
+198,Engineer- automotive
+199,Engineer- biomedical
+200,Engineer- broadcasting (operations)
+201,Engineer- building services
+202,Engineer- chemical
+203,Engineer- civil (consulting)
+204,Engineer- civil (contracting)
+205,Engineer- communications
+206,Engineer- control and instrumentation
+207,Engineer- drilling
+208,Engineer- electrical
+209,Engineer- electronics
+210,Engineer- energy
+211,Engineer- land
+212,Engineer- maintenance
+213,Engineer- maintenance (IT)
+214,Engineer- manufacturing
+215,Engineer- manufacturing systems
+216,Engineer- materials
+217,Engineer- mining
+218,Engineer- petroleum
+219,Engineer- production
+220,Engineer- site
+221,Engineer- structural
+222,Engineer- technical sales
+223,Engineer- water
+224,Engineering geologist
+225,English as a foreign language teacher
+226,English as a second language teacher
+227,Environmental consultant
+228,Environmental education officer
+229,Environmental health practitioner
+230,Environmental manager
+231,Equality and diversity officer
+232,Equities trader
+233,Ergonomist
+234,Estate agent
+235,Estate manager/land agent
+236,Event organiser
+237,Exercise physiologist
+238,Exhibition designer
+239,Exhibitions officer- museum/gallery
+240,Facilities manager
+241,Farm manager
+242,Fashion designer
+243,Fast food restaurant manager
+244,Field seismologist
+245,Field trials officer
+246,Film/video editor
+247,Financial adviser
+248,Financial controller
+249,Financial manager
+250,Financial planner
+251,Financial risk analyst
+252,Financial trader
+253,Fine artist
+254,Firefighter
+255,Fish farm manager
+256,Fisheries officer
+257,Fitness centre manager
+258,Food technologist
+259,Forensic psychologist
+260,Forensic scientist
+261,Forest/woodland manager
+262,Freight forwarder
+263,Furniture conservator/restorer
+264,Furniture designer
+265,Further education lecturer
+266,Futures trader
+267,Gaffer
+268,Games developer
+269,Garment/textile technologist
+270,General practice doctor
+271,Geneticist- molecular
+272,Geochemist
+273,Geographical information systems officer
+274,Geologist- engineering
+275,Geologist- wellsite
+276,Geophysical data processor
+277,Geophysicist/field seismologist
+278,Geoscientist
+279,Glass blower/designer
+280,Government social research officer
+281,Graphic designer
+282,Haematologist
+283,Health and safety adviser
+284,Health and safety inspector
+285,Health physicist
+286,Health promotion specialist
+287,Health service manager
+288,Health visitor
+289,Herbalist
+290,Heritage manager
+291,Herpetologist
+292,Higher education careers adviser
+293,Higher education lecturer
+294,Historic buildings inspector/conservation officer
+295,Holiday representative
+296,Homeopath
+297,Horticultural consultant
+298,Horticultural therapist
+299,Horticulturist- amenity
+300,Horticulturist- commercial
+301,Hospital doctor
+302,Hospital pharmacist
+303,Hotel manager
+304,Housing manager/officer
+305,Human resources officer
+306,Hydrogeologist
+307,Hydrographic surveyor
+308,Hydrologist
+309,Illustrator
+310,Immigration officer
+311,Immunologist
+312,Industrial buyer
+313,Industrial/product designer
+314,Information officer
+315,Information systems manager
+316,Insurance account manager
+317,Insurance broker
+318,Insurance claims handler
+319,Insurance risk surveyor
+320,Insurance underwriter
+321,Intelligence analyst
+322,Interior and spatial designer
+323,International aid/development worker
+324,Interpreter
+325,Investment analyst
+326,Investment banker- corporate
+327,Investment banker- operational
+328,IT consultant
+329,IT sales professional
+330,IT technical support officer
+331,IT trainer
+332,Jewellery designer
+333,Journalist- broadcasting
+334,Journalist- magazine
+335,Journalist- newspaper
+336,Land
+337,Land/geomatics surveyor
+338,Landscape architect
+339,Lawyer
+340,Learning disability nurse
+341,Learning mentor
+342,Lecturer- further education
+343,Lecturer- higher education
+344,Legal executive
+345,Legal secretary
+346,Leisure centre manager
+347,Lexicographer
+348,Librarian- academic
+349,Librarian- public
+350,Licensed conveyancer
+351,Lighting technician- broadcasting/film/video
+352,Lobbyist
+353,Local government officer
+354,Location manager
+355,Logistics and distribution manager
+356,Loss adjuster- chartered
+357,Magazine features editor
+358,Magazine journalist
+359,Maintenance engineer
+360,Make
+361,Management consultant
+362,Manufacturing engineer
+363,Manufacturing systems engineer
+364,Marine scientist
+365,Market researcher
+366,Marketing executive
+367,Materials engineer
+368,Mechanical engineer
+369,Media buyer
+370,Media planner
+371,Medical illustrator
+372,Medical laboratory scientific officer
+373,Medical physicist
+374,Medical sales representative
+375,Medical secretary
+376,Medical technical officer
+377,Mental health nurse
+378,Merchandiser- retail
+379,Merchant navy officer
+380,Metallurgist
+381,Meteorologist
+382,Microbiologist
+383,Midwife
+384,Minerals surveyor
+385,Mining engineer
+386,Mudlogger
+387,Multimedia programmer
+388,Multimedia specialist
+389,Museum education officer
+390,Museum/gallery conservator
+391,Museum/gallery curator
+392,Museum/gallery exhibitions officer
+393,Music therapist
+394,Music tutor
+395,Musician
+396,Nature conservation officer
+397,Naval architect
+398,Network engineer
+399,Neurosurgeon
+400,Newspaper journalist
+401,Nurse- adult
+402,Nurse- children''s
+403,Nurse- learning disability
+404,Nurse- mental health
+405,Nutritional therapist
+406,Occupational hygienist
+407,Occupational psychologist
+408,Occupational therapist
+409,Oceanographer
+410,Office manager
+411,Oncologist
+412,Operational investment banker
+413,Operational researcher
+414,Operations geologist
+415,Ophthalmologist
+416,Optician- dispensing
+417,Optometrist
+418,Orthoptist
+419,Osteopath
+420,Outdoor activities/education manager
+421,Paediatric nurse
+422,Paramedic
+423,Passenger transport manager
+424,Patent attorney
+425,Patent examiner
+426,Pathologist
+427,Pension scheme manager
+428,Pensions consultant
+429,Personal assistant
+430,Personnel officer
+431,Petroleum engineer
+432,Pharmacist- community
+433,Pharmacist- hospital
+434,Pharmacologist
+435,Photographer
+436,Physicist- medical
+437,Physiological scientist
+438,Physiotherapist
+439,Phytotherapist
+440,Pilot- airline
+441,Planning and development surveyor
+442,Plant breeder/geneticist
+443,Podiatrist
+444,Police officer
+445,Politician''s assistant
+446,Presenter- broadcasting
+447,Press photographer
+448,Press sub
+449,Primary school teacher
+450,Print production planner
+451,Printmaker
+452,Prison officer
+453,Private music teacher
+454,Probation officer
+455,Producer- radio
+456,Producer- television/film/video
+457,Product designer
+458,Product manager
+459,Product/process development scientist
+460,Production assistant- radio
+461,Production assistant- television
+462,Production designer- theatre/television/film
+463,Production engineer
+464,Production manager
+465,Professor Emeritus
+466,Programme researcher- broadcasting/film/video
+467,Programmer- applications
+468,Programmer- multimedia
+469,Programmer- systems
+470,Proofreader
+471,Psychiatric nurse
+472,Psychiatrist
+473,Psychologist- clinical
+474,Psychologist- counselling
+475,Psychologist- educational
+476,Psychologist- forensic
+477,Psychologist- occupational
+478,Psychologist- prison and probation services
+479,Psychologist- sport and exercise
+480,Psychotherapist
+481,Psychotherapist- child
+482,Psychotherapist- dance movement
+483,Public affairs consultant
+484,Public house manager
+485,Public librarian
+486,Public relations account executive
+487,Public relations officer
+488,Publishing copy
+489,Publishing rights manager
+490,Purchasing manager
+491,Quality manager
+492,Quantity surveyor
+493,Quarry manager
+494,Race relations officer
+495,Radiation protection practitioner
+496,Radio broadcast assistant
+497,Radio producer
+498,Radiographer- diagnostic
+499,Radiographer- therapeutic
+500,Ranger/warden
+501,Records manager
+502,Recruitment consultant
+503,Recycling officer
+504,Regulatory affairs officer
+505,Research officer- government
+506,Research officer- political party
+507,Research officer- trade union
+508,Research scientist (life sciences)
+509,Research scientist (maths)
+510,Research scientist (medical)
+511,Research scientist (physical sciences)
+512,Restaurant manager
+513,Restaurant manager- fast food
+514,Retail banker
+515,Retail buyer
+516,Retail manager
+517,Retail merchandiser
+518,Risk analyst
+519,Risk manager
+520,Runner- broadcasting/film/video
+521,Rural practice surveyor
+522,Sales executive
+523,Sales professional- IT
+524,Sales promotion account executive
+525,Science writer
+526,Scientific laboratory technician
+527,Scientist- audiological
+528,Scientist- biomedical
+529,Scientist- clinical (histocompatibility and immunogenetics)
+530,Scientist- forensic
+531,Scientist- marine
+532,Scientist- physiological
+533,Scientist- product/process development
+534,Scientist- research (life sciences)
+535,Scientist- research (maths)
+536,Scientist- research (medical)
+537,Scientist- research (physical sciences)
+538,Scientist- water quality
+539,Secondary school teacher
+540,Secretary- company
+541,Secretary/administrator
+542,Seismic interpreter
+543,Senior tax professional/tax inspector
+544,Set designer
+545,Ship broker
+546,Site engineer
+547,Social research officer- government
+548,Social researcher
+549,Social worker
+550,Software engineer
+551,Soil scientist
+552,Solicitor
+553,Solicitor- Scotland
+554,Sound technician- broadcasting/film/video
+555,Special educational needs teacher
+556,Special effects artist
+557,Speech and language therapist
+558,Sport and exercise psychologist
+559,Sports administrator
+560,Sports coach
+561,Sports development officer
+562,Sports therapist
+563,Stage manager
+564,Statistician
+565,Structural engineer
+566,Sub
+567,Surgeon
+568,Surveyor- building
+569,Surveyor- building control
+570,Surveyor- commercial/residential
+571,Surveyor- hydrographic
+572,Surveyor- insurance
+573,Surveyor- land/geomatics
+574,Surveyor- minerals
+575,Surveyor- mining
+576,Surveyor- planning and development
+577,Surveyor- quantity
+578,Surveyor- rural practice
+579,Systems analyst
+580,Systems developer
+581,Tax adviser
+582,Tax inspector
+583,Teacher- adult education
+584,Teacher- early years/pre
+585,Teacher- English as a foreign language
+586,Teacher- music
+587,Teacher- primary school
+588,Teacher- secondary school
+589,Teacher- special educational needs
+590,Teaching laboratory technician
+591,Technical author
+592,Technical brewer
+593,Technical sales engineer
+594,TEFL teacher
+595,Telecommunications researcher
+596,Television camera operator
+597,Television floor manager
+598,Television production assistant
+599,Television/film/video producer
+600,Textile designer
+601,Theatre director
+602,Theatre manager
+603,Theatre stage manager
+604,Theme park manager
+605,Therapeutic radiographer
+606,Therapist- art
+607,Therapist- drama
+608,Therapist- horticultural
+609,Therapist- music
+610,Therapist- nutritional
+611,Therapist- occupational
+612,Therapist- speech and language
+613,Therapist- sports
+614,Tour manager
+615,Tourism officer
+616,Tourist information centre manager
+617,Town planner
+618,Toxicologist
+619,Trade mark attorney
+620,Trade union research officer
+621,Trading standards officer
+622,Training and development officer
+623,Translator
+624,Transport planner
+625,Travel agency manager
+626,Tree surgeon
+627,Veterinary surgeon
+628,Video editor
+629,Visual merchandiser
+630,Volunteer coordinator
+631,Warden/ranger
+632,Warehouse manager
+633,Waste management officer
+634,Water engineer
+635,Water quality scientist
+636,Web designer
+637,Wellsite geologist
+638,Writer
+639,Youth worker
