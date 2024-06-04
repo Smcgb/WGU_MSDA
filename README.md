@@ -1,3 +1,8 @@
+# Update no longer valid as of Aug 2024 as course content
+This set of courses was valid from 2022-2024.
+This set of courses will be retired as of Aug 1, 2024 replaced with the new specialization paths. I may try and obtain course info and branch.
+See new version of the MSDA can be found [here](https://www.wgu.edu/online-it-degrees/data-analytics-masters-program.html)
+
 # WGU_MSDA
 This data analytics degree program focuses on both theory and application, “learn by doing” as you complete data science and analytics projects in stages. The program covers working with medical and corporate datasets and an original capstone project. Coursework is completed programtically with Python, R, Postgres-SQL or with common tools such as Tableau/Power BI Equivalent
 
