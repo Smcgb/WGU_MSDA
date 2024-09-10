@@ -56,8 +56,8 @@ def fit_random_forest_classifier2(X, y):
     #First let's create training and testing data
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=42)
 
-    #We could grid search and tune, but let's just fit a simple model to see how it does
-    #instantiate
+    # We could grid search and tune, but let's just fit a simple model to see how it does
+    # instantiate
     clf = RandomForestClassifier(n_estimators=100, max_depth=None)
 
     #fit

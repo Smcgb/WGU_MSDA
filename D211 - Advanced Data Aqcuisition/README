@@ -1,0 +1,132 @@
+# Installation Instructions
+
+To run the attached notebook and see source code properly, you will need to be connected to the virtual lab for WGU.
+
+The attached csv will need to be added to the desktop. I recommend saving it in cloud storage and accessing the file from cloud storage within the VM.
+
+Once the file is made available in the VM, please open PG4Admin from the desktop and connect to the CHURN database.
+
+An initial table will need to be created in the churn database via the following SQL query:
+
+DROP TABLE IF EXISTS wa_fn;
+
+CREATE TABLE IF NOT EXISTS wa_fn (
+	customerID text PRIMARY KEY,
+	gender text,
+	SeniorCitizen int,	
+	Partner text,
+	Dependents text,
+	tenure int,
+	PhoneService text,
+	MultipleLines text,
+	InternetService text,
+	OnlineSecurity text,
+	OnlineBackup text,	
+	DeviceProtection text,	
+	TechSupport text,	
+	StreamingTV text,	
+	StreamingMovies text,	
+	Contract text,	
+	PaperlessBilling text,	
+	PaymentMethod text,	
+	MonthlyCharges numeric,	
+	TotalCharges numeric,
+	Churn text
+);
+
+After this table is created, you will need to open PSQL. In the VM, PSQL can be found in the following path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\PostgreSQL 13
+
+The program may be called SQL Shell (psql) instead of PSQL.
+
+Open PSQL and connect to the CHURN database and run the following PSQL command
+
+\copy wa_fn FROM 'C:\Users\LabUser\Desktop\WA_Fn-UseC_-Telco-Customer-Churn.csv' DELIMITER ',' CSV HEADER;
+
+After recieving the amount of lines copied, enter a commit statement:
+Commit;
+
+You may close PSQL. Please note, any mistakes made to the table from here on out will require a total drop of the table and a reloading via PSQL will be necessary due to permissions being incorrectly set in the WGU VM.
+
+Re-enter PG4Admin and enter the following queries to create the combined merger table:
+
+UPDATE "wa_fn"
+SET "contract" = '1'
+WHERE "contract" = 'Month-to-month;
+
+UPDATE "wa_fn"
+SET "contract" = '2'
+WHERE "contract" = '1 year';
+
+UPDATE "wa_fn"
+SET "contract" = '2'
+WHERE "contract" = 'One year'
+
+UPDATE "wa_fn"
+SET "contract" = '3'
+WHERE "contract" = 'Two year';
+
+UPDATE "wa_fn"
+SET "paymentmethod" = '1'
+WHERE "paymentmethod" = 'Bank transfer (automatic)';
+
+UPDATE "wa_fn"
+SET "paymentmethod" = '2'
+WHERE "paymentmethod" = 'Credit card (automatic)';
+
+UPDATE "wa_fn"
+SET "paymentmethod" = '3'
+WHERE "paymentmethod" = 'Electronic check';
+
+UPDATE "wa_fn"
+SET "paymentmethod" = '4'
+WHERE "paymentmethod" = 'Mailed check';
+
+ALTER TABLE wa_fn
+RENAME COLUMN contract to contract_id;
+ALTER TABLE wa_fn
+RENAME COLUMN paymentmethod to payment_id;
+ALTER TABLE wa_fn
+RENAME COLUMN monthlycharges to monthly_charge;
+
+ALTER TABLE customer
+ADD company bool;
+
+ALTER TABLE wa_fn
+ADD company bool;
+
+UPDATE customer SET company = True;
+
+UPDATE wa_fn SET company = False;
+
+ALTER TABLE wa_fn
+ALTER COLUMN payment_id TYPE numeric
+USING payment_id::numeric;
+
+ALTER TABLE wa_fn
+ALTER COLUMN contract_id TYPE numeric
+USING contract_id::numeric;
+
+CREATE TABLE merger
+AS
+SELECT 
+	customer_id, company, gender, 
+	payment_id, contract_id, round(tenure), 
+	monthly_charge, churn 
+FROM 
+	customer
+UNION ALL 
+SELECT 
+	customer_id, company, gender, 
+	payment_id, contract_id, round(tenure) ,
+	monthly_charge, churn
+from wa_fn;
+
+Commit;
+
+Once all transactions are commited and your table is succesfully create, you will be able to open Tableau Desktop and connect to the PostgreSQL Churn database.
+
+From here, your data connection should be set to only the merger table and the .twbx should load.
+
+Dashboard 1 will be the primary driver on a few post merger numbers from the data. An assumption is made that those who are labeled as `Churn` == 'Yes' in this instance would be lost customers after a merger/acquisition of company 2/wa_fn.
+
+There are no special naviagation instructions for the dashboard as the data is prefiltered per report. As this is an executive decision making report on a few objects, there is no need to further drill in or use any filters. The simple nature of comparing 2 continuous variables across categories also doesn't require any custom instructions to navigate an essentially view only dashboard.
